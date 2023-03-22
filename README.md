@@ -1,1 +1,1 @@
-# projects
+student management syatem
